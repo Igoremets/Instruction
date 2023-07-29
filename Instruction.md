@@ -53,5 +53,8 @@ git remote add origin https://github.com/Igoremets/Instruction.git
 git branch -M main
 git commit -m "Instruction for GIT"
 
+Удаление коммита: 
+git reset --hard +hash of commit (до какого коммита хотим удалить)
+
 Конец инструкции 
 
