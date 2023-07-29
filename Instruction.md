@@ -46,6 +46,9 @@ cd +та имя той папки которую ты взял из удален
 ПЕРЕД ВСЕМИ МАНИПУЛЯЦИЯМИ НАДО СДЕЛАТЬ CNTR + S ЧТОБЫ СОХРАНИТЬ КОД
 ПОТОМ GITT ADD 
 GIT COMMIT
+GIT PUSH
+
+Первоначальная инструкция от GIT:
 git remote add origin https://github.com/Igoremets/Instruction.git       
 git branch -M main
 git commit -m "Instruction for GIT"
