@@ -55,3 +55,5 @@ git commit -m "Instruction for GIT"
 
 Конец инструкции 
 
+Домашнее Задание - продолжение
+Создал Вектку 2 - Igor Second
