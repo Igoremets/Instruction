@@ -42,5 +42,13 @@ cd +та имя той папки которую ты взял из удален
 использовать в GIT Hub функцию Fork
 заходишь в чужой репозиторий нажимаешь на FORK и получаешь такой же репозиторий на своем аккаунте. и дальше можешь с ним работать. 
 
+
+ПЕРЕЛ ВСЕМИ МАНИПУЛЯЦИЯМИ НАДО СДЕЛАТЬ CNTR + S ЧТОБЫ СОХРАНИТЬ КОД
+ПОТОМ GITT ADD 
+GIT COMMIT
+git remote add origin https://github.com/Igoremets/Instruction.git       
+git branch -M main
+git commit -m "Instruction for GIT"
+
 Конец инструкции 
 
