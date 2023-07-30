@@ -51,6 +51,7 @@ GIT PUSH
 Первоначальная инструкция от GIT:
 git remote add origin https://github.com/Igoremets/Instruction.git       
 git branch -M main
+git branch -a = команда позволяет посмотреть список всех локальных и удаленных веток в вашем репозитории git. 
 git commit -m "Instruction for GIT"
 
 Удаление коммита: 
